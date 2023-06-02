@@ -11,7 +11,6 @@ In the application, you can enter the title, description and date of the note an
   
 | Pages in the app |
 | --------- |
-|  Splash Screen  |
 |  Home Page   |
 |  Note Detail    | 
 
